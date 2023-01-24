@@ -2,6 +2,8 @@
 =========
 Add Clippy or his friends to any website for instant nostalgia.  
 
+![image](https://user-images.githubusercontent.com/28036018/214212339-2c0f636f-4b68-42e4-986b-cc149e549e40.png)
+
 
 Usage:
 
