@@ -7,7 +7,7 @@ Add Clippy or his friends to any website for instant nostalgia.
 
 Usage:
 
-Download zip file, extract, run index.html.
+Go to this site, https://download-directory.github.io/, enter https://github.com/djbritt/ClippyJS_EasyAccess , extract, run index.html
 --------------
 All the agent actions are queued and executed by order, so you could stack them.
 
@@ -37,3 +37,6 @@ agent.stopCurrent();
 // stop all actions in the queue and go back to idle mode
 agent.stop();
 ```
+
+ORIGINAL CODE CREATED BY: [https://github.com/pi0/clippyjs](https://github.com/clippyjs/clippy.js)
+Thank you for the work on this Smore. https://www.smore.com/clippy-js
