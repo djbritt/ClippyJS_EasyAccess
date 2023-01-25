@@ -2,7 +2,7 @@
 =========
 Add Clippy or his friends to any website for instant nostalgia.  
 
-![image](https://user-images.githubusercontent.com/28036018/214212339-2c0f636f-4b68-42e4-986b-cc149e549e40.png)
+<img width="964" alt="image" src="https://user-images.githubusercontent.com/28036018/214519114-b7fe1e02-3577-4e02-ab74-a8b07e5b59f3.png">
 
 
 Usage:
