@@ -39,5 +39,5 @@ agent.stopCurrent();
 agent.stop();
 ```
 
-ORIGINAL CODE CREATED BY: [https://github.com/pi0/clippyjs](https://github.com/clippyjs/clippy.js)
+ORIGINAL CODE CREATED BY: [https://github.com/clippyjs/clippy.js](https://github.com/clippyjs/clippy.js)
 Thank you for the work on this Smore. https://www.smore.com/clippy-js
