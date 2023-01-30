@@ -7,7 +7,9 @@ Play with Clippy and his friends for instant nostalgia.
 
 Usage:
 
-Go to this site, https://download-directory.github.io/, enter https://github.com/djbritt/ClippyJS_EasyAccess.github.io/tree/main/clippy to download the project. Run index.html
+Option 1: https://djbritt.github.io/ClippyJS_EasyAccess.github.io/clippy/
+
+Option 2 - run locally: Go to this site, https://download-directory.github.io/, enter https://github.com/djbritt/ClippyJS_EasyAccess.github.io/tree/main/clippy to download the project. Run index.html
 
 --------------
 All the agent actions are queued and executed by order, so you could stack them.
