@@ -205,7 +205,6 @@
           }
 
           function createButtons() {
-            
             animations.sort(function(a, b) {
               let nameA = a.toLowerCase();
               let nameB = b.toLowerCase();
@@ -217,15 +216,19 @@
               }
               return 0;
             });
-            
+
             console.log("create actions")
             for (let i = 0; i < animations.length; i++) {
               let button = document.createElement("button");
               button.innerHTML = animations[i];
               button.className = "my-button";
-              button.onclick = function() {
-                myAgent.play(animations[i]);
-              };
+              // button.onclick = function() {
+              //   myAgent.play(animations[i]);
+              // };
+              var name = animations[i];
+              button.setAttribute("onclick", "myAgent.play('" + name + "')");
+
+
               document.getElementsByClassName('actions')[0].appendChild(button);
             }
           }
